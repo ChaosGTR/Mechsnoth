@@ -1,4 +1,5 @@
 # Only include everything inside the Mechsnoth directory.
 # This was for mapping directly into add-ons, without adding the other addons into Git automatically. 
-!Mechsnoth/**
+/*
+!/Mechsnoth
 !README.md
